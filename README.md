@@ -1,3 +1,7 @@
+bzSKSCSPAGE9Sx8nSj6DHEl7wLsUlNYr
+
+https://api.giphy.com/v1/gifs/search?q=dolphin&api_key=bzSKSCSPAGE9Sx8nSj6DHEl7wLsUlNYr&rating=g
+
 # Giphy Search!
 
 ## Instructions
